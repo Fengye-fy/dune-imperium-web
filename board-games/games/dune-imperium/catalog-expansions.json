@@ -1,0 +1,2707 @@
+{
+  "schemaVersion": 1,
+  "revision": "expansions-8dc58a71864e",
+  "source": "https://dunecardshub.com/",
+  "entries": [
+    {
+      "id": "conflict-ix-economic-supremacy",
+      "englishName": "Economic Supremacy",
+      "category": "conflict",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/543/rise-of-ix-economic-supremacy",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-conflict-economic-supremacy.webp",
+      "image": {
+        "src": "cards/conflict/conflict-ix-economic-supremacy.5e4738f52847.webp",
+        "width": 440,
+        "height": 670,
+        "alt": "Economic Supremacy",
+        "placeholder": false,
+        "sha256": "5e4738f5284726f17e56aece6726d1d770a30c4f938b4eb4fd6a3bc44b29a8a5",
+        "bytes": 38744,
+        "sourceUrl": "https://dunecardshub.com/cards/543/rise-of-ix-economic-supremacy"
+      }
+    },
+    {
+      "id": "conflict-ix-skirmish-i",
+      "englishName": "Skirmish I",
+      "category": "conflict",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/541/rise-of-ix-skirmish-i",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-conflict-skirmish-i.webp",
+      "image": {
+        "src": "cards/conflict/conflict-ix-skirmish-i.874d3c7f9308.webp",
+        "width": 440,
+        "height": 670,
+        "alt": "Skirmish I",
+        "placeholder": false,
+        "sha256": "874d3c7f930838d496de6fb5c9352ba927a19a1c5789053d225f25b22860b6a4",
+        "bytes": 38450,
+        "sourceUrl": "https://dunecardshub.com/cards/541/rise-of-ix-skirmish-i"
+      }
+    },
+    {
+      "id": "conflict-ix-skirmish-ii",
+      "englishName": "Skirmish II",
+      "category": "conflict",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/540/rise-of-ix-skirmish-ii",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-conflict-skirmish-ii.webp",
+      "image": {
+        "src": "cards/conflict/conflict-ix-skirmish-ii.b8ff505788e5.webp",
+        "width": 440,
+        "height": 670,
+        "alt": "Skirmish II",
+        "placeholder": false,
+        "sha256": "b8ff505788e5f72abd121821fe916c68489a830920a8998f5edd987481ca863c",
+        "bytes": 29114,
+        "sourceUrl": "https://dunecardshub.com/cards/540/rise-of-ix-skirmish-ii"
+      }
+    },
+    {
+      "id": "conflict-ix-trade-monopoly",
+      "englishName": "Trade Monopoy",
+      "category": "conflict",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/542/rise-of-ix-trade-monopoy",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-conflict-trade-monopoy.webp",
+      "image": {
+        "src": "cards/conflict/conflict-ix-trade-monopoly.3434ca005644.webp",
+        "width": 440,
+        "height": 670,
+        "alt": "Trade Monopoy",
+        "placeholder": false,
+        "sha256": "3434ca005644c59d8fb08b5da6f40f83f498db1ce4379b68623a8977d0d80782",
+        "bytes": 32660,
+        "sourceUrl": "https://dunecardshub.com/cards/542/rise-of-ix-trade-monopoy"
+      }
+    },
+    {
+      "id": "experimentation",
+      "englishName": "Experimentation",
+      "category": "starter",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/539/immortality-experimentation",
+      "imageUrl": "https://dunecardshub.com/images/immortality-other-experimentation.webp",
+      "image": {
+        "src": "cards/starter/experimentation.b7eea1be44f9.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Experimentation",
+        "placeholder": false,
+        "sha256": "b7eea1be44f9a260da095f4f9ec522c5734a5c34b4fa63298ed6cf2e01cce462",
+        "bytes": 32208,
+        "sourceUrl": "https://dunecardshub.com/cards/539/immortality-experimentation"
+      }
+    },
+    {
+      "id": "imm-bene-tleilax-lab",
+      "englishName": "Bene Tleilax Lab",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/367/immortality-bene-tleilax-lab",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-bene-tleilax-lab.webp",
+      "image": {
+        "src": "cards/imperium/imm-bene-tleilax-lab.629d318dd940.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Bene Tleilax Lab",
+        "placeholder": false,
+        "sha256": "629d318dd94033029539bd7f85a7ce57fe19b4acc702075b6f1cc0d69ae62491",
+        "bytes": 36374,
+        "sourceUrl": "https://dunecardshub.com/cards/367/immortality-bene-tleilax-lab"
+      }
+    },
+    {
+      "id": "imm-bene-tleilax-researcher",
+      "englishName": "Bene Tleilax Researcher",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/368/immortality-bene-tleilax-researcher",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-bene-tleilax-researcher.webp",
+      "image": {
+        "src": "cards/imperium/imm-bene-tleilax-researcher.37bd7be9e551.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Bene Tleilax Researcher",
+        "placeholder": false,
+        "sha256": "37bd7be9e551c088377a02545c8ca760ae9d60a8e9e59171d16d634fe797a170",
+        "bytes": 36970,
+        "sourceUrl": "https://dunecardshub.com/cards/368/immortality-bene-tleilax-researcher"
+      }
+    },
+    {
+      "id": "imm-blank-slate",
+      "englishName": "Blank Slate",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/369/immortality-blank-slate",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-blank-slate.webp",
+      "image": {
+        "src": "cards/imperium/imm-blank-slate.75299f1e03a3.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Blank Slate",
+        "placeholder": false,
+        "sha256": "75299f1e03a3ad897259dc597c10aedd96ca1eac767b47e02d9490089b86ec7b",
+        "bytes": 37406,
+        "sourceUrl": "https://dunecardshub.com/cards/369/immortality-blank-slate"
+      }
+    },
+    {
+      "id": "imm-clandestine-meeting",
+      "englishName": "Clandestine Meeting",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/370/immortality-clandestine-meeting",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-clandestine-meeting.webp",
+      "image": {
+        "src": "cards/imperium/imm-clandestine-meeting.623fc4a7ba2c.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Clandestine Meeting",
+        "placeholder": false,
+        "sha256": "623fc4a7ba2c8808f2ff4dd1be6909221960dfe959cb6f4cc1eeb32eddf5dacb",
+        "bytes": 43996,
+        "sourceUrl": "https://dunecardshub.com/cards/370/immortality-clandestine-meeting"
+      }
+    },
+    {
+      "id": "imm-corrupt-smuggler",
+      "englishName": "Corrupt Smuggler",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/371/immortality-corrupt-smuggler",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-corrupt-smuggler.webp",
+      "image": {
+        "src": "cards/imperium/imm-corrupt-smuggler.7177805b8c26.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Corrupt Smuggler",
+        "placeholder": false,
+        "sha256": "7177805b8c267a12cac057f742d5162c46379fa102dea5dc429be15aa853c5af",
+        "bytes": 46138,
+        "sourceUrl": "https://dunecardshub.com/cards/371/immortality-corrupt-smuggler"
+      }
+    },
+    {
+      "id": "imm-dissecting-kit",
+      "englishName": "Dissecting Kit",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/372/immortality-dissecting-kit",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-dissecting-kit.webp",
+      "image": {
+        "src": "cards/imperium/imm-dissecting-kit.67986d382707.webp",
+        "width": 629,
+        "height": 880,
+        "alt": "Dissecting Kit",
+        "placeholder": false,
+        "sha256": "67986d382707b1636fb7c1ab17a757b065d5b8cce484d78267157389f724db51",
+        "bytes": 37120,
+        "sourceUrl": "https://dunecardshub.com/cards/372/immortality-dissecting-kit"
+      }
+    },
+    {
+      "id": "imm-for-humanity",
+      "englishName": "For Humanity",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/373/immortality-for-humanity",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-for-humanity.webp",
+      "image": {
+        "src": "cards/imperium/imm-for-humanity.8eb94d61bd18.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "For Humanity",
+        "placeholder": false,
+        "sha256": "8eb94d61bd182d14623a2d1ec000b999d215df85f6c228f3cbae7a7e32aee94a",
+        "bytes": 40124,
+        "sourceUrl": "https://dunecardshub.com/cards/373/immortality-for-humanity"
+      }
+    },
+    {
+      "id": "imm-high-priority-travel",
+      "englishName": "High Priority Travel",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/374/immortality-high-priority-travel",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-high-priority-travel.webp",
+      "image": {
+        "src": "cards/imperium/imm-high-priority-travel.a9a371ee6ecd.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "High Priority Travel",
+        "placeholder": false,
+        "sha256": "a9a371ee6ecd152c5cc6d713f6b2123050a07028cd28de24589ed99727b46f36",
+        "bytes": 44712,
+        "sourceUrl": "https://dunecardshub.com/cards/374/immortality-high-priority-travel"
+      }
+    },
+    {
+      "id": "imm-imperium-ceremony",
+      "englishName": "Imperium Ceremony",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/375/immortality-imperium-ceremony",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-imperium-ceremony.webp",
+      "image": {
+        "src": "cards/imperium/imm-imperium-ceremony.2eff69b28f86.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Imperium Ceremony",
+        "placeholder": false,
+        "sha256": "2eff69b28f865476c82f9e49087b04a0acf443805d2066ff804e54ce5a07794b",
+        "bytes": 48696,
+        "sourceUrl": "https://dunecardshub.com/cards/375/immortality-imperium-ceremony"
+      }
+    },
+    {
+      "id": "imm-interstellar-conspiracy",
+      "englishName": "Interstellar Conspiracy",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/376/immortality-interstellar-conspiracy",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-interstellar-conspiracy.webp",
+      "image": {
+        "src": "cards/imperium/imm-interstellar-conspiracy.f0879b010a73.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Interstellar Conspiracy",
+        "placeholder": false,
+        "sha256": "f0879b010a73dd07249e716dfacbaedb2acc9310a4dfc95d525a18dfb5094ba9",
+        "bytes": 37376,
+        "sourceUrl": "https://dunecardshub.com/cards/376/immortality-interstellar-conspiracy"
+      }
+    },
+    {
+      "id": "imm-keys-to-power",
+      "englishName": "Keys To Power",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/377/immortality-keys-to-power",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-keys-to-power.webp",
+      "image": {
+        "src": "cards/imperium/imm-keys-to-power.db91c4c58a75.webp",
+        "width": 629,
+        "height": 880,
+        "alt": "Keys To Power",
+        "placeholder": false,
+        "sha256": "db91c4c58a75ed1be22012b67625e70fbfd18d568dd883b00704b6480e684b9d",
+        "bytes": 46102,
+        "sourceUrl": "https://dunecardshub.com/cards/377/immortality-keys-to-power"
+      }
+    },
+    {
+      "id": "imm-lisan-al-gaib",
+      "englishName": "Lisan Al Gaib",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/378/immortality-lisan-al-gaib",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-lisan-al-gaib.webp",
+      "image": {
+        "src": "cards/imperium/imm-lisan-al-gaib.cac4c7d186cb.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Lisan Al Gaib",
+        "placeholder": false,
+        "sha256": "cac4c7d186cb9d361b02c0a0060fb48be8fd17a64454107d4b0a6de182409d36",
+        "bytes": 45362,
+        "sourceUrl": "https://dunecardshub.com/cards/378/immortality-lisan-al-gaib"
+      }
+    },
+    {
+      "id": "imm-long-reach",
+      "englishName": "Long Reach",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/379/immortality-long-reach",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-long-reach.webp",
+      "image": {
+        "src": "cards/imperium/imm-long-reach.8044359ef7be.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Long Reach",
+        "placeholder": false,
+        "sha256": "8044359ef7bebfafeaa596a2ec7c79ed5fd28c8f179a5b11eb2ad68f6d67b5a4",
+        "bytes": 34494,
+        "sourceUrl": "https://dunecardshub.com/cards/379/immortality-long-reach"
+      }
+    },
+    {
+      "id": "imm-occupation",
+      "englishName": "Occupation",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/380/immortality-occupation",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-occupation.webp",
+      "image": {
+        "src": "cards/imperium/imm-occupation.63f54892b04a.webp",
+        "width": 627,
+        "height": 880,
+        "alt": "Occupation",
+        "placeholder": false,
+        "sha256": "63f54892b04a75b9f8f61966d22d5ec8fe061f64a7fb12f65b2aeb807a113f1a",
+        "bytes": 45934,
+        "sourceUrl": "https://dunecardshub.com/cards/380/immortality-occupation"
+      }
+    },
+    {
+      "id": "imm-organ-merchants",
+      "englishName": "Organ Merchants",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/381/immortality-organ-merchants",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-organ-merchants.webp",
+      "image": {
+        "src": "cards/imperium/imm-organ-merchants.e18503defa8e.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Organ Merchants",
+        "placeholder": false,
+        "sha256": "e18503defa8eac7ad6a56e13c997d22e18b746a4d1697286a9508beafb181d4d",
+        "bytes": 43534,
+        "sourceUrl": "https://dunecardshub.com/cards/381/immortality-organ-merchants"
+      }
+    },
+    {
+      "id": "imm-planned-coupling",
+      "englishName": "Planned Coupling",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/382/immortality-planned-coupling",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-planned-coupling.webp",
+      "image": {
+        "src": "cards/imperium/imm-planned-coupling.5081dd89bc67.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Planned Coupling",
+        "placeholder": false,
+        "sha256": "5081dd89bc67207738705f355bf8302911182e7cc786b085aba60cda98dc8350",
+        "bytes": 41324,
+        "sourceUrl": "https://dunecardshub.com/cards/382/immortality-planned-coupling"
+      }
+    },
+    {
+      "id": "imm-replacement-eyes",
+      "englishName": "Replacement Eyes",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/383/immortality-replacement-eyes",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-replacement-eyes.webp",
+      "image": {
+        "src": "cards/imperium/imm-replacement-eyes.294a6a827492.webp",
+        "width": 629,
+        "height": 880,
+        "alt": "Replacement Eyes",
+        "placeholder": false,
+        "sha256": "294a6a82749234d0e751d4959da3f7c13db63244a5ab1fd1cec26d0844192c23",
+        "bytes": 41512,
+        "sourceUrl": "https://dunecardshub.com/cards/383/immortality-replacement-eyes"
+      }
+    },
+    {
+      "id": "imm-sardaukar-quartermaster",
+      "englishName": "Sardaukar Quartermaster",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/384/immortality-sardaukar-quartermaster",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-sardaukar-quartermaster.webp",
+      "image": {
+        "src": "cards/imperium/imm-sardaukar-quartermaster.fdadb06cbd4f.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Sardaukar Quartermaster",
+        "placeholder": false,
+        "sha256": "fdadb06cbd4f6e552cf26697b089fe1b7b44cf6c61e970bdf5fa421c5ee332c1",
+        "bytes": 37830,
+        "sourceUrl": "https://dunecardshub.com/cards/384/immortality-sardaukar-quartermaster"
+      }
+    },
+    {
+      "id": "imm-shadout-mapes",
+      "englishName": "Shadout Mapes",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/385/immortality-shadout-mapes",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-shadout-mapes.webp",
+      "image": {
+        "src": "cards/imperium/imm-shadout-mapes.14cc04165066.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Shadout Mapes",
+        "placeholder": false,
+        "sha256": "14cc04165066ca470f381aff2a02d4818af5e260548069d5b77809b30299e81c",
+        "bytes": 42062,
+        "sourceUrl": "https://dunecardshub.com/cards/385/immortality-shadout-mapes"
+      }
+    },
+    {
+      "id": "imm-show-of-strength",
+      "englishName": "Show Of Strength",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/386/immortality-show-of-strength",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-show-of-strength.webp",
+      "image": {
+        "src": "cards/imperium/imm-show-of-strength.510b1618b23d.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Show Of Strength",
+        "placeholder": false,
+        "sha256": "510b1618b23d2a9405978965b773493a3bb38918adc7ee97162bf1ba3a714f98",
+        "bytes": 49032,
+        "sourceUrl": "https://dunecardshub.com/cards/386/immortality-show-of-strength"
+      }
+    },
+    {
+      "id": "imm-spiritual-fervor",
+      "englishName": "Spiritual Fervor",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/387/immortality-spiritual-fervor",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-spiritual-fervor.webp",
+      "image": {
+        "src": "cards/imperium/imm-spiritual-fervor.894e5121fadd.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Spiritual Fervor",
+        "placeholder": false,
+        "sha256": "894e5121faddd9ff0869ab0dff3c23eabd91ecaae7d555a97f3ce961d031a83b",
+        "bytes": 33892,
+        "sourceUrl": "https://dunecardshub.com/cards/387/immortality-spiritual-fervor"
+      }
+    },
+    {
+      "id": "imm-stillsuit-manufacturer",
+      "englishName": "Stillsuit Manufacturer",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/388/immortality-stillsuit-manufacturer",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-stillsuit-manufacturer.webp",
+      "image": {
+        "src": "cards/imperium/imm-stillsuit-manufacturer.3dc0837205c9.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Stillsuit Manufacturer",
+        "placeholder": false,
+        "sha256": "3dc0837205c9ab1615f3280a286c47ac13ae4b6aeed8e4b9aac4dfb3f11262f1",
+        "bytes": 47244,
+        "sourceUrl": "https://dunecardshub.com/cards/388/immortality-stillsuit-manufacturer"
+      }
+    },
+    {
+      "id": "imm-throne-room-politics",
+      "englishName": "Throne Room Politics",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/389/immortality-throne-room-politics",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-throne-room-politics.webp",
+      "image": {
+        "src": "cards/imperium/imm-throne-room-politics.514f3f823522.webp",
+        "width": 629,
+        "height": 880,
+        "alt": "Throne Room Politics",
+        "placeholder": false,
+        "sha256": "514f3f82352246ed487c8f54ed9a51b06d8b1116c291eb94b8f8e331e6670724",
+        "bytes": 36566,
+        "sourceUrl": "https://dunecardshub.com/cards/389/immortality-throne-room-politics"
+      }
+    },
+    {
+      "id": "imm-tleilaxu-master",
+      "englishName": "Tleilaxu Master",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/390/immortality-tleilaxu-master",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-tleilaxu-master.webp",
+      "image": {
+        "src": "cards/imperium/imm-tleilaxu-master.74766757e56b.webp",
+        "width": 627,
+        "height": 880,
+        "alt": "Tleilaxu Master",
+        "placeholder": false,
+        "sha256": "74766757e56b785142ffef73db25786c889e6da6f862549587420330606db8ce",
+        "bytes": 41792,
+        "sourceUrl": "https://dunecardshub.com/cards/390/immortality-tleilaxu-master"
+      }
+    },
+    {
+      "id": "imm-tleilaxu-surgeon",
+      "englishName": "Tleilaxu Surgeon",
+      "category": "imperium",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/391/immortality-tleilaxu-surgeon",
+      "imageUrl": "https://dunecardshub.com/images/immortality-imperium-tleilaxu-surgeon.webp",
+      "image": {
+        "src": "cards/imperium/imm-tleilaxu-surgeon.84252e25ac2b.webp",
+        "width": 627,
+        "height": 880,
+        "alt": "Tleilaxu Surgeon",
+        "placeholder": false,
+        "sha256": "84252e25ac2bae6d5238001f2c0ce005c0689ab2f042e6599418476eb9aed1e4",
+        "bytes": 45800,
+        "sourceUrl": "https://dunecardshub.com/cards/391/immortality-tleilaxu-surgeon"
+      }
+    },
+    {
+      "id": "intrigue-imm-breakthrough",
+      "englishName": "Breakthrough",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/392/immortality-breakthrough",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-breakthrough.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-breakthrough.c11691ad1033.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Breakthrough",
+        "placeholder": false,
+        "sha256": "c11691ad10338935d8359013790aa91492917ed9d3b255f638540486f8a246a4",
+        "bytes": 17608,
+        "sourceUrl": "https://dunecardshub.com/cards/392/immortality-breakthrough"
+      }
+    },
+    {
+      "id": "intrigue-imm-counterattack",
+      "englishName": "Counterattack",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/393/immortality-counterattack",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-counterattack.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-counterattack.9b42b52653f8.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Counterattack",
+        "placeholder": false,
+        "sha256": "9b42b52653f83278d5bd90385ce8b35bd1f5521e32faa7696e123e5c12595a4a",
+        "bytes": 24364,
+        "sourceUrl": "https://dunecardshub.com/cards/393/immortality-counterattack"
+      }
+    },
+    {
+      "id": "intrigue-imm-disguised-bureaucrat",
+      "englishName": "Disguised Bureaucrat",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/394/immortality-disguised-bureaucrat",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-disguised-bureaucrat.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-disguised-bureaucrat.25a8d5dfe24a.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Disguised Bureaucrat",
+        "placeholder": false,
+        "sha256": "25a8d5dfe24abef046dc4c0eabd9ed9ddac41ad22d641ce723288047dba8ce41",
+        "bytes": 16072,
+        "sourceUrl": "https://dunecardshub.com/cards/394/immortality-disguised-bureaucrat"
+      }
+    },
+    {
+      "id": "intrigue-imm-economic-positioning",
+      "englishName": "Economic Positioning",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/395/immortality-economic-positioning",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-economic-positioning.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-economic-positioning.2f49442c9f79.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Economic Positioning",
+        "placeholder": false,
+        "sha256": "2f49442c9f79b07812938ba35c2e38140c1c42b0e567fe04f6ce728a0adea151",
+        "bytes": 17006,
+        "sourceUrl": "https://dunecardshub.com/cards/395/immortality-economic-positioning"
+      }
+    },
+    {
+      "id": "intrigue-imm-gruesome-sacrifice",
+      "englishName": "Gruesome Sacrifice",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/396/immortality-gruesome-sacrifice",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-gruesome-sacrifice.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-gruesome-sacrifice.5da445cb59c7.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Gruesome Sacrifice",
+        "placeholder": false,
+        "sha256": "5da445cb59c78238afc69d7c244beb5f09c779917f0fac34b4ed85f133fcbb61",
+        "bytes": 15332,
+        "sourceUrl": "https://dunecardshub.com/cards/396/immortality-gruesome-sacrifice"
+      }
+    },
+    {
+      "id": "intrigue-imm-harvest-cells",
+      "englishName": "Harvest Cells",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/397/immortality-harvest-cells",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-harvest-cells.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-harvest-cells.4307b91d34f4.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Harvest Cells",
+        "placeholder": false,
+        "sha256": "4307b91d34f48c5ab5e4144ff9615bf663e1cee2fde6a45c9311b9de84948631",
+        "bytes": 20062,
+        "sourceUrl": "https://dunecardshub.com/cards/397/immortality-harvest-cells"
+      }
+    },
+    {
+      "id": "intrigue-imm-illicit-dealings",
+      "englishName": "Illicit Dealings",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/398/immortality-illicit-dealings",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-illicit-deadlings.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-illicit-dealings.109a71d9a231.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Illicit Dealings",
+        "placeholder": false,
+        "sha256": "109a71d9a2318cc1ec326be3d7f6cedb78350922f10e75bdbbc490f2c611d799",
+        "bytes": 12804,
+        "sourceUrl": "https://dunecardshub.com/cards/398/immortality-illicit-dealings"
+      }
+    },
+    {
+      "id": "intrigue-imm-shadowy-bargain",
+      "englishName": "Shadowy Bargain",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/399/immortality-shadowy-bargain",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-shadowy-bargain.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-shadowy-bargain.9b9ff52eaefd.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Shadowy Bargain",
+        "placeholder": false,
+        "sha256": "9b9ff52eaefd1ed5c0776e9589c78835153555333d8437e364eb63a64cce5253",
+        "bytes": 15336,
+        "sourceUrl": "https://dunecardshub.com/cards/399/immortality-shadowy-bargain"
+      }
+    },
+    {
+      "id": "intrigue-imm-study-melange",
+      "englishName": "Study Melange",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/400/immortality-study-melange",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-study-melange.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-study-melange.7c183e6322f2.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Study Melange",
+        "placeholder": false,
+        "sha256": "7c183e6322f283a1fc752f3ad008125ae46b021c8a879417893a094a8e63e483",
+        "bytes": 22762,
+        "sourceUrl": "https://dunecardshub.com/cards/400/immortality-study-melange"
+      }
+    },
+    {
+      "id": "intrigue-imm-tleilaxu-puppet",
+      "englishName": "Tleilaxu Puppet",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/401/immortality-tleilaxu-puppet",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-tleilaxu-puppet.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-tleilaxu-puppet.5d47f56fb1d7.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Tleilaxu Puppet",
+        "placeholder": false,
+        "sha256": "5d47f56fb1d715d94743f64b92cc2ceb4c5c4f473b6da511214b31e287fba0f3",
+        "bytes": 22710,
+        "sourceUrl": "https://dunecardshub.com/cards/401/immortality-tleilaxu-puppet"
+      }
+    },
+    {
+      "id": "intrigue-imm-vicious-talents",
+      "englishName": "Vicious Talents",
+      "category": "intrigue",
+      "expansion": "immortality",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/402/immortality-vicious-talents",
+      "imageUrl": "https://dunecardshub.com/images/immortality-intrigue-vicious-talents.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-imm-vicious-talents.5fb191e58eb0.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Vicious Talents",
+        "placeholder": false,
+        "sha256": "5fb191e58eb0d1436ba2ba251e8e2d31835bcfdc518c0e6a789ee8541a428442",
+        "bytes": 14056,
+        "sourceUrl": "https://dunecardshub.com/cards/402/immortality-vicious-talents"
+      }
+    },
+    {
+      "id": "intrigue-ix-advanced-weaponry",
+      "englishName": "Advanced Weaponry",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/328/rise-of-ix-advanced-weaponry",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-advanced-weaponry.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-advanced-weaponry.ba92ef55fc32.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Advanced Weaponry",
+        "placeholder": false,
+        "sha256": "ba92ef55fc32656ebc505621e625f60d10515647ef81ad455c925c8fa5497142",
+        "bytes": 19892,
+        "sourceUrl": "https://dunecardshub.com/cards/328/rise-of-ix-advanced-weaponry"
+      }
+    },
+    {
+      "id": "intrigue-ix-blackmail",
+      "englishName": "Blackmail",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/333/rise-of-ix-blackmail",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-blackmail.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-blackmail.46e3a577cd36.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Blackmail",
+        "placeholder": false,
+        "sha256": "46e3a577cd364138fa956e3e43a89ffb9c017868fd64aa6918b384026387cafe",
+        "bytes": 11518,
+        "sourceUrl": "https://dunecardshub.com/cards/333/rise-of-ix-blackmail"
+      }
+    },
+    {
+      "id": "intrigue-ix-cannon-turrets",
+      "englishName": "Cannon Turrets",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/335/rise-of-ix-cannon-turrets",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-cannon-turrets.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-cannon-turrets.00865dcc9cd7.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Cannon Turrets",
+        "placeholder": false,
+        "sha256": "00865dcc9cd7701c10d306269575cd269fe0481f68a4eb419b96d4d0c35f44fe",
+        "bytes": 14542,
+        "sourceUrl": "https://dunecardshub.com/cards/335/rise-of-ix-cannon-turrets"
+      }
+    },
+    {
+      "id": "intrigue-ix-cull",
+      "englishName": "Cull",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/331/rise-of-ix-cull",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-cull.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-cull.0180f23e7960.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Cull",
+        "placeholder": false,
+        "sha256": "0180f23e79602b77f0654af78d16231d49e403df72565900f9585b10ce4d3912",
+        "bytes": 13952,
+        "sourceUrl": "https://dunecardshub.com/cards/331/rise-of-ix-cull"
+      }
+    },
+    {
+      "id": "intrigue-ix-diversion",
+      "englishName": "Diversion",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/326/rise-of-ix-diversion",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-diversion.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-diversion.9ba5f62d3c16.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Diversion",
+        "placeholder": false,
+        "sha256": "9ba5f62d3c1645bfa6193a62d38ffe8f8b643284e8c7e5316d4b87204a14214e",
+        "bytes": 22068,
+        "sourceUrl": "https://dunecardshub.com/cards/326/rise-of-ix-diversion"
+      }
+    },
+    {
+      "id": "intrigue-ix-expedite",
+      "englishName": "Expedite",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/336/rise-of-ix-expedite",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-expedite.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-expedite.0e2cc311ca64.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Expedite",
+        "placeholder": false,
+        "sha256": "0e2cc311ca64bc493d92de6c338377a413ed5ad94f0bbec2a983c978767d0164",
+        "bytes": 15124,
+        "sourceUrl": "https://dunecardshub.com/cards/336/rise-of-ix-expedite"
+      }
+    },
+    {
+      "id": "intrigue-ix-finesse",
+      "englishName": "Finesse",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/340/rise-of-ix-finesse",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-finesse.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-finesse.dea20cf2724b.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Finesse",
+        "placeholder": false,
+        "sha256": "dea20cf2724b4a2be4553a211091b702aa3246793911d7ddcc0ac025d7cf3e26",
+        "bytes": 14076,
+        "sourceUrl": "https://dunecardshub.com/cards/340/rise-of-ix-finesse"
+      }
+    },
+    {
+      "id": "intrigue-ix-glimpse-the-path",
+      "englishName": "Glimpse The Path",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/339/rise-of-ix-glimpse-the-path",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-glimpse-the-path.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-glimpse-the-path.231015c077e8.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Glimpse The Path",
+        "placeholder": false,
+        "sha256": "231015c077e8ed6ffb2fe3f9c0361ea5f84ec907a8f35959dced6886065f507c",
+        "bytes": 16266,
+        "sourceUrl": "https://dunecardshub.com/cards/339/rise-of-ix-glimpse-the-path"
+      }
+    },
+    {
+      "id": "intrigue-ix-grand-conspiracy",
+      "englishName": "Grand Conspiracy",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/330/rise-of-ix-grand-conspiracy",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-grand-conspiracy.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-grand-conspiracy.a8d628096add.webp",
+        "width": 432,
+        "height": 670,
+        "alt": "Grand Conspiracy",
+        "placeholder": false,
+        "sha256": "a8d628096add4e812acbdf02f34b10499008169054181cae3fd4aa65d09eb073",
+        "bytes": 26056,
+        "sourceUrl": "https://dunecardshub.com/cards/330/rise-of-ix-grand-conspiracy"
+      }
+    },
+    {
+      "id": "intrigue-ix-ixian-probe",
+      "englishName": "Ixian Probe",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/337/rise-of-ix-ixian-probe",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-ixian-probe.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-ixian-probe.f049f042e87d.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Ixian Probe",
+        "placeholder": false,
+        "sha256": "f049f042e87dfb228d7d6065ae2e52f0ebba3061d81afff318508e0c305c9e97",
+        "bytes": 16456,
+        "sourceUrl": "https://dunecardshub.com/cards/337/rise-of-ix-ixian-probe"
+      }
+    },
+    {
+      "id": "intrigue-ix-machine-culture",
+      "englishName": "Machine Culture",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/334/rise-of-ix-machine-culture",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-machine-culture.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-machine-culture.625409be4349.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Machine Culture",
+        "placeholder": false,
+        "sha256": "625409be4349055c410b268cf356daa916140d4f99249271f48b89244e1853a8",
+        "bytes": 21596,
+        "sourceUrl": "https://dunecardshub.com/cards/334/rise-of-ix-machine-culture"
+      }
+    },
+    {
+      "id": "intrigue-ix-quid-pro-quo",
+      "englishName": "Quid Pro Quo",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/342/rise-of-ix-quid-pro-quo",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-quid-pro-quo.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-quid-pro-quo.15fe95495cc0.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Quid Pro Quo",
+        "placeholder": false,
+        "sha256": "15fe95495cc0cedb77676aaad1615e1500d0e72d76257538577fe2d1854989f9",
+        "bytes": 23932,
+        "sourceUrl": "https://dunecardshub.com/cards/342/rise-of-ix-quid-pro-quo"
+      }
+    },
+    {
+      "id": "intrigue-ix-second-wave",
+      "englishName": "Second Wave",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/338/rise-of-ix-second-wave",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-second-wave.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-second-wave.7790bd5220d8.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Second Wave",
+        "placeholder": false,
+        "sha256": "7790bd5220d8fc191eb67342a2035cf12f93b25d0e41af9cd44bd15e9c695995",
+        "bytes": 14828,
+        "sourceUrl": "https://dunecardshub.com/cards/338/rise-of-ix-second-wave"
+      }
+    },
+    {
+      "id": "intrigue-ix-secret-forces",
+      "englishName": "Secret Forces",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/329/rise-of-ix-secret-forces",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-secret-forces.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-secret-forces.2659cf3c668c.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Secret Forces",
+        "placeholder": false,
+        "sha256": "2659cf3c668c117da394e7e410c8db999c895247fb9911b0c718c3ccf1d3b2cc",
+        "bytes": 18398,
+        "sourceUrl": "https://dunecardshub.com/cards/329/rise-of-ix-secret-forces"
+      }
+    },
+    {
+      "id": "intrigue-ix-strategic-push",
+      "englishName": "Strategic Push",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/332/rise-of-ix-strategic-push",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-strategic-push.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-strategic-push.21f358cbb0fd.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Strategic Push",
+        "placeholder": false,
+        "sha256": "21f358cbb0fdd87ff4c51ce819ad8156a0f0eba96156543e60499db518f72aeb",
+        "bytes": 12820,
+        "sourceUrl": "https://dunecardshub.com/cards/332/rise-of-ix-strategic-push"
+      }
+    },
+    {
+      "id": "intrigue-ix-strongarm",
+      "englishName": "Strongarm",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/341/rise-of-ix-strongarm",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-strongarm.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-strongarm.8c5287f737ba.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "Strongarm",
+        "placeholder": false,
+        "sha256": "8c5287f737baeeb83486bb65750eb09734aaf808f012c50cb1c405b37389f943",
+        "bytes": 21538,
+        "sourceUrl": "https://dunecardshub.com/cards/341/rise-of-ix-strongarm"
+      }
+    },
+    {
+      "id": "intrigue-ix-war-chest",
+      "englishName": "War Chest",
+      "category": "intrigue",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/327/rise-of-ix-war-chest",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-intrigue-war-chest.webp",
+      "image": {
+        "src": "cards/intrigue/intrigue-ix-war-chest.e71958e76d32.webp",
+        "width": 430,
+        "height": 670,
+        "alt": "War Chest",
+        "placeholder": false,
+        "sha256": "e71958e76d32ed9391f1d9fffec4a0fd34d93798ebd3a46ed0a057cb8ac359a0",
+        "bytes": 18340,
+        "sourceUrl": "https://dunecardshub.com/cards/327/rise-of-ix-war-chest"
+      }
+    },
+    {
+      "id": "ix-appropriate",
+      "englishName": "Appropriate",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/306/rise-of-ix-appropriate",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-appropriate.webp",
+      "image": {
+        "src": "cards/imperium/ix-appropriate.5420160b6030.webp",
+        "width": 631,
+        "height": 880,
+        "alt": "Appropriate",
+        "placeholder": false,
+        "sha256": "5420160b6030f29bff441a8fb37b10645652799b9296376315de4d6769e0656c",
+        "bytes": 46186,
+        "sourceUrl": "https://dunecardshub.com/cards/306/rise-of-ix-appropriate"
+      }
+    },
+    {
+      "id": "ix-bounty-hunter",
+      "englishName": "Bounty Hunter",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/300/rise-of-ix-bounty-hunter",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-bounty-hunter.webp",
+      "image": {
+        "src": "cards/imperium/ix-bounty-hunter.efd1cd5cd9d9.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Bounty Hunter",
+        "placeholder": false,
+        "sha256": "efd1cd5cd9d9b99104e546ed253ebaf2328cca6a8be89e3924ef711bfb6d1935",
+        "bytes": 37586,
+        "sourceUrl": "https://dunecardshub.com/cards/300/rise-of-ix-bounty-hunter"
+      }
+    },
+    {
+      "id": "ix-choam-delegate",
+      "englishName": "CHOAM Delegate",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/299/rise-of-ix-choam-delegate",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-choam-delegate.webp",
+      "image": {
+        "src": "cards/imperium/ix-choam-delegate.541bfcb7cc5d.webp",
+        "width": 631,
+        "height": 880,
+        "alt": "CHOAM Delegate",
+        "placeholder": false,
+        "sha256": "541bfcb7cc5dea8499daaec6b00b8a727d1f5bb760f95785f4a05e75150cac06",
+        "bytes": 37194,
+        "sourceUrl": "https://dunecardshub.com/cards/299/rise-of-ix-choam-delegate"
+      }
+    },
+    {
+      "id": "ix-control-the-spice",
+      "englishName": "Control The Spice",
+      "category": "variant",
+      "expansion": "rise-of-ix",
+      "copies": 4,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/324/rise-of-ix-control-the-spice",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-control-the-spice.webp",
+      "image": {
+        "src": "cards/variant/ix-control-the-spice.39364b4a6db4.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Control The Spice",
+        "placeholder": false,
+        "sha256": "39364b4a6db487df4217bae47f459ebf5e008f2e8e3f6975b8c5c68426d5900c",
+        "bytes": 40362,
+        "sourceUrl": "https://dunecardshub.com/cards/324/rise-of-ix-control-the-spice"
+      }
+    },
+    {
+      "id": "ix-court-intrigue",
+      "englishName": "Court Intrigue",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/303/rise-of-ix-court-intrigue",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-court-intrigue.webp",
+      "image": {
+        "src": "cards/imperium/ix-court-intrigue.de78d94171c2.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Court Intrigue",
+        "placeholder": false,
+        "sha256": "de78d94171c243c467cb192fdc288eea0bc8b4a648fec02515a53c7a42e6b8cc",
+        "bytes": 44842,
+        "sourceUrl": "https://dunecardshub.com/cards/303/rise-of-ix-court-intrigue"
+      }
+    },
+    {
+      "id": "ix-desert-ambush",
+      "englishName": "Desert Ambush",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/307/rise-of-ix-desert-ambush",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-desert-ambush.webp",
+      "image": {
+        "src": "cards/imperium/ix-desert-ambush.147a67480fdb.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Desert Ambush",
+        "placeholder": false,
+        "sha256": "147a67480fdbc7c56f505c764609a6a4224b0ccb913478d636985b96bd0bb922",
+        "bytes": 44016,
+        "sourceUrl": "https://dunecardshub.com/cards/307/rise-of-ix-desert-ambush"
+      }
+    },
+    {
+      "id": "ix-embedded-agent",
+      "englishName": "Embedded Agent",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/301/rise-of-ix-embedded-agent",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-embedded-agent.webp",
+      "image": {
+        "src": "cards/imperium/ix-embedded-agent.a64ff7878aaf.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Embedded Agent",
+        "placeholder": false,
+        "sha256": "a64ff7878aaf783d9add25be75cb5ea547ec42b7fbbbfdfe17c125ecad183f71",
+        "bytes": 42212,
+        "sourceUrl": "https://dunecardshub.com/cards/301/rise-of-ix-embedded-agent"
+      }
+    },
+    {
+      "id": "ix-esmar-tuek",
+      "englishName": "Esmar Tuek",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/302/rise-of-ix-esmar-tuek",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-esmar-tuek.webp",
+      "image": {
+        "src": "cards/imperium/ix-esmar-tuek.60aa5c4dabc7.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Esmar Tuek",
+        "placeholder": false,
+        "sha256": "60aa5c4dabc7af295d3f9b92d1401ec972f67ee84cbee24d1e092fbb9bee1826",
+        "bytes": 45384,
+        "sourceUrl": "https://dunecardshub.com/cards/302/rise-of-ix-esmar-tuek"
+      }
+    },
+    {
+      "id": "ix-freighter-fleet",
+      "englishName": "Freighter Fleet",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/310/rise-of-ix-freighter-fleet",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-freighter-fleet.webp",
+      "image": {
+        "src": "cards/imperium/ix-freighter-fleet.55172819ac37.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Freighter Fleet",
+        "placeholder": false,
+        "sha256": "55172819ac37c8a753dc89cba9aca89f98a3469e637443196b0cc1a14ab2349d",
+        "bytes": 36964,
+        "sourceUrl": "https://dunecardshub.com/cards/310/rise-of-ix-freighter-fleet"
+      }
+    },
+    {
+      "id": "ix-full-scale-assault",
+      "englishName": "Full-Scale Assault",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/322/rise-of-ix-full-scale-assault",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-full-scale-assult.webp",
+      "image": {
+        "src": "cards/imperium/ix-full-scale-assault.b7d7e2353a73.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Full-Scale Assault",
+        "placeholder": false,
+        "sha256": "b7d7e2353a733df3cfd5c107f54928003cf80827500c57fe1d581129ce48e88f",
+        "bytes": 51830,
+        "sourceUrl": "https://dunecardshub.com/cards/322/rise-of-ix-full-scale-assault"
+      }
+    },
+    {
+      "id": "ix-guild-accord",
+      "englishName": "Guild Accord",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/295/rise-of-ix-guild-accord",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-guild-accord.webp",
+      "image": {
+        "src": "cards/imperium/ix-guild-accord.9deb9e8a43d5.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Guild Accord",
+        "placeholder": false,
+        "sha256": "9deb9e8a43d596290d8a5e325450657459ffae08ba97194f87eba32cabdf259c",
+        "bytes": 40724,
+        "sourceUrl": "https://dunecardshub.com/cards/295/rise-of-ix-guild-accord"
+      }
+    },
+    {
+      "id": "ix-guild-chief-administrator",
+      "englishName": "Guild Chief Administrator",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/294/rise-of-ix-guild-chief-administrator",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-guild-chief-administrator.webp",
+      "image": {
+        "src": "cards/imperium/ix-guild-chief-administrator.fd7b95edf60d.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Guild Chief Administrator",
+        "placeholder": false,
+        "sha256": "fd7b95edf60db314946be605e6e632a301dc2aa3383b4566e4ca97265c2a2693",
+        "bytes": 44344,
+        "sourceUrl": "https://dunecardshub.com/cards/294/rise-of-ix-guild-chief-administrator"
+      }
+    },
+    {
+      "id": "ix-imperial-bashar",
+      "englishName": "Imperial Bashar",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/311/rise-of-ix-imperial-bashar",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-imperial-bashar.webp",
+      "image": {
+        "src": "cards/imperium/ix-imperial-bashar.bcb50d5c6934.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Imperial Bashar",
+        "placeholder": false,
+        "sha256": "bcb50d5c6934ac65520aaef5a261900452a5b39b8bbc5813e3333c6c55c8a0b4",
+        "bytes": 45380,
+        "sourceUrl": "https://dunecardshub.com/cards/311/rise-of-ix-imperial-bashar"
+      }
+    },
+    {
+      "id": "ix-imperial-shock-trooper",
+      "englishName": "Imperial Shock Trooper",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/305/rise-of-ix-imperial-shock-trooper",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-imperial-shock-trooper.webp",
+      "image": {
+        "src": "cards/imperium/ix-imperial-shock-trooper.8987655148b8.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Imperial Shock Trooper",
+        "placeholder": false,
+        "sha256": "8987655148b88c58f30bd44d4b3119159d6dce34fdef959346693dfaf5638f46",
+        "bytes": 60292,
+        "sourceUrl": "https://dunecardshub.com/cards/305/rise-of-ix-imperial-shock-trooper"
+      }
+    },
+    {
+      "id": "ix-in-the-shadows",
+      "englishName": "In The Shadows",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/308/rise-of-ix-in-the-shadows",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-in-the-shadows.webp",
+      "image": {
+        "src": "cards/imperium/ix-in-the-shadows.8b92bdd86f6c.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "In The Shadows",
+        "placeholder": false,
+        "sha256": "8b92bdd86f6c3624517a1d80840643431aa3bbc639004adf05a7a06bedd9402f",
+        "bytes": 40614,
+        "sourceUrl": "https://dunecardshub.com/cards/308/rise-of-ix-in-the-shadows"
+      }
+    },
+    {
+      "id": "ix-ix-guild-compact",
+      "englishName": "Ix-Guild Compact",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/298/rise-of-ix-ix-guild-compact",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-ix-guild-compact.webp",
+      "image": {
+        "src": "cards/imperium/ix-ix-guild-compact.141cbf95a34a.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Ix-Guild Compact",
+        "placeholder": false,
+        "sha256": "141cbf95a34a4e3e3ece4c75dc0a156e16418de081f72d4860a53e0d076baa62",
+        "bytes": 38520,
+        "sourceUrl": "https://dunecardshub.com/cards/298/rise-of-ix-ix-guild-compact"
+      }
+    },
+    {
+      "id": "ix-ixian-engineer",
+      "englishName": "Ixian Engineer",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/318/rise-of-ix-ixian-engineer",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-ixian-engineer.webp",
+      "image": {
+        "src": "cards/imperium/ix-ixian-engineer.52f60cb0f1c2.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Ixian Engineer",
+        "placeholder": false,
+        "sha256": "52f60cb0f1c28199b0e3340a9d6481744ce77b68a6aa0aa1628db472c7c2900b",
+        "bytes": 46136,
+        "sourceUrl": "https://dunecardshub.com/cards/318/rise-of-ix-ixian-engineer"
+      }
+    },
+    {
+      "id": "ix-jamis",
+      "englishName": "Jamis",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/312/rise-of-ix-jamis",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-jamis.webp",
+      "image": {
+        "src": "cards/imperium/ix-jamis.55249deab9cc.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Jamis",
+        "placeholder": false,
+        "sha256": "55249deab9cc159b923693a47618e863da348b8779560eec326a185f1667178c",
+        "bytes": 41518,
+        "sourceUrl": "https://dunecardshub.com/cards/312/rise-of-ix-jamis"
+      }
+    },
+    {
+      "id": "ix-landing-rights",
+      "englishName": "Landing Rights",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/313/rise-of-ix-landing-rights",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-landing-rights.webp",
+      "image": {
+        "src": "cards/imperium/ix-landing-rights.9216efc41b4f.webp",
+        "width": 631,
+        "height": 880,
+        "alt": "Landing Rights",
+        "placeholder": false,
+        "sha256": "9216efc41b4f5927a06ce6e69c3573255d77da9489be175449fda91c01298a6a",
+        "bytes": 37992,
+        "sourceUrl": "https://dunecardshub.com/cards/313/rise-of-ix-landing-rights"
+      }
+    },
+    {
+      "id": "ix-local-fence",
+      "englishName": "Local Fence",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/296/rise-of-ix-local-fence",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-local-fence.webp",
+      "image": {
+        "src": "cards/imperium/ix-local-fence.d2119562539e.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Local Fence",
+        "placeholder": false,
+        "sha256": "d2119562539e5aa4f70cdbd5bb8ddcc53f3efa7a728b2ea750d515dd43099c56",
+        "bytes": 44790,
+        "sourceUrl": "https://dunecardshub.com/cards/296/rise-of-ix-local-fence"
+      }
+    },
+    {
+      "id": "ix-negotiated-withdrawal",
+      "englishName": "Negotiated Withdrawal",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/321/rise-of-ix-negotiated-withdrawal",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-negotiated-withdrawal.webp",
+      "image": {
+        "src": "cards/imperium/ix-negotiated-withdrawal.7e9c1a749af1.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Negotiated Withdrawal",
+        "placeholder": false,
+        "sha256": "7e9c1a749af1d4e5661a200489539a163cd243261ae40a2ed080389442ee774e",
+        "bytes": 42936,
+        "sourceUrl": "https://dunecardshub.com/cards/321/rise-of-ix-negotiated-withdrawal"
+      }
+    },
+    {
+      "id": "ix-satellite-ban",
+      "englishName": "Satellite Ban",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/309/rise-of-ix-satellite-ban",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-satellite-ban.webp",
+      "image": {
+        "src": "cards/imperium/ix-satellite-ban.158e94150312.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Satellite Ban",
+        "placeholder": false,
+        "sha256": "158e94150312153253576054d0a5e4b4bd06d298c1b35b5a812a58691bb71fe2",
+        "bytes": 49354,
+        "sourceUrl": "https://dunecardshub.com/cards/309/rise-of-ix-satellite-ban"
+      }
+    },
+    {
+      "id": "ix-sayyadina",
+      "englishName": "Sayyadina",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/304/rise-of-ix-sayyadina",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-sayyadina.webp",
+      "image": {
+        "src": "cards/imperium/ix-sayyadina.7eba6e929dec.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Sayyadina",
+        "placeholder": false,
+        "sha256": "7eba6e929decaaf77dc2ca7885c4faaf914325c6cc22cbf5349fcf7d7bb7c989",
+        "bytes": 46844,
+        "sourceUrl": "https://dunecardshub.com/cards/304/rise-of-ix-sayyadina"
+      }
+    },
+    {
+      "id": "ix-shai-hulud",
+      "englishName": "Shai-Hulud",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/297/rise-of-ix-shai-hulud",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-shai-hulud.webp",
+      "image": {
+        "src": "cards/imperium/ix-shai-hulud.74a7d8dd1600.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Shai-Hulud",
+        "placeholder": false,
+        "sha256": "74a7d8dd16003d62874f477a15514f8239a235db1cd7ee3146978936a0791a7d",
+        "bytes": 41754,
+        "sourceUrl": "https://dunecardshub.com/cards/297/rise-of-ix-shai-hulud"
+      }
+    },
+    {
+      "id": "ix-spice-trader",
+      "englishName": "Spice Trader",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/317/rise-of-ix-spice-trader",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-spice-trader.webp",
+      "image": {
+        "src": "cards/imperium/ix-spice-trader.b7894415878e.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Spice Trader",
+        "placeholder": false,
+        "sha256": "b7894415878ebe89cba0394624612e6b5daa51ff5f2a422e709ba2be1ffce595",
+        "bytes": 43132,
+        "sourceUrl": "https://dunecardshub.com/cards/317/rise-of-ix-spice-trader"
+      }
+    },
+    {
+      "id": "ix-treachery",
+      "englishName": "Treachery",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/315/rise-of-ix-treachery",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-treachery.webp",
+      "image": {
+        "src": "cards/imperium/ix-treachery.f27646756bb8.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Treachery",
+        "placeholder": false,
+        "sha256": "f27646756bb883d734d9258e01f462b7a1c291178404665ef134492902325f92",
+        "bytes": 47568,
+        "sourceUrl": "https://dunecardshub.com/cards/315/rise-of-ix-treachery"
+      }
+    },
+    {
+      "id": "ix-truthsayer",
+      "englishName": "Truthsayer",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 2,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/316/rise-of-ix-truthsayer",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-truthsayer.webp",
+      "image": {
+        "src": "cards/imperium/ix-truthsayer.50bc3e11b4ec.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Truthsayer",
+        "placeholder": false,
+        "sha256": "50bc3e11b4ecb0142048fb87bb2d1265f623a1e518014ee488c5c7171695c004",
+        "bytes": 41256,
+        "sourceUrl": "https://dunecardshub.com/cards/316/rise-of-ix-truthsayer"
+      }
+    },
+    {
+      "id": "ix-water-peddler",
+      "englishName": "Water Peddler",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/314/rise-of-ix-water-peddler",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-water-peddler.webp",
+      "image": {
+        "src": "cards/imperium/ix-water-peddler.3febd789b5a4.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Water Peddler",
+        "placeholder": false,
+        "sha256": "3febd789b5a41a36af7e64d13094ab30088eaf08cb8f2dfeabcdad77be39c5e6",
+        "bytes": 48036,
+        "sourceUrl": "https://dunecardshub.com/cards/314/rise-of-ix-water-peddler"
+      }
+    },
+    {
+      "id": "ix-web-of-power",
+      "englishName": "Web of Power",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/319/rise-of-ix-web-of-power",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-web-of-power.webp",
+      "image": {
+        "src": "cards/imperium/ix-web-of-power.01a05fc475f9.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Web of Power",
+        "placeholder": false,
+        "sha256": "01a05fc475f9355245ccc186d0e5497c5732027336d732ad2eee41cc2b68395c",
+        "bytes": 38898,
+        "sourceUrl": "https://dunecardshub.com/cards/319/rise-of-ix-web-of-power"
+      }
+    },
+    {
+      "id": "ix-weirding-way",
+      "englishName": "Weirding Way",
+      "category": "imperium",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/320/rise-of-ix-weirding-way",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-imperium-weirding-way.webp",
+      "image": {
+        "src": "cards/imperium/ix-weirding-way.f51f85c94656.webp",
+        "width": 631,
+        "height": 880,
+        "alt": "Weirding Way",
+        "placeholder": false,
+        "sha256": "f51f85c94656d0b149fa0dec6d28afcb33f7ba3718226d63578d56086b9d0c68",
+        "bytes": 50438,
+        "sourceUrl": "https://dunecardshub.com/cards/320/rise-of-ix-weirding-way"
+      }
+    },
+    {
+      "id": "leader-archduke-armand-ecaz",
+      "englishName": "Archduke Armand Ecaz",
+      "category": "leader",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/348/rise-of-ix-archduke-armand-ecaz",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-leader-archduke-armand-ecaz.webp",
+      "image": {
+        "src": "cards/leader/leader-archduke-armand-ecaz.4161713687e6.webp",
+        "width": 1460,
+        "height": 1016,
+        "alt": "Archduke Armand Ecaz",
+        "placeholder": false,
+        "sha256": "4161713687e6952e94f4567643513e5d577dc0e837baaef20b4865ca3bd02498",
+        "bytes": 139196,
+        "sourceUrl": "https://dunecardshub.com/cards/348/rise-of-ix-archduke-armand-ecaz"
+      }
+    },
+    {
+      "id": "leader-ilesa-ecaz",
+      "englishName": "Ilesa Ecaz",
+      "category": "leader",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/346/rise-of-ix-ilesa-ecaz",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-leader-ilesa-ecaz.webp",
+      "image": {
+        "src": "cards/leader/leader-ilesa-ecaz.577587bc9bb4.webp",
+        "width": 1460,
+        "height": 1019,
+        "alt": "Ilesa Ecaz",
+        "placeholder": false,
+        "sha256": "577587bc9bb4d8a167ea127650e4a446ac89502b16e1bc7b5c1e468f70dae005",
+        "bytes": 160470,
+        "sourceUrl": "https://dunecardshub.com/cards/346/rise-of-ix-ilesa-ecaz"
+      }
+    },
+    {
+      "id": "leader-prince-rhombur-vernius",
+      "englishName": "Prince Rhombur Vernius",
+      "category": "leader",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/344/rise-of-ix-prince-rhombur-vernius",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-leader-prince-rhombur-vernius.webp",
+      "image": {
+        "src": "cards/leader/leader-prince-rhombur-vernius.fede5c419357.webp",
+        "width": 1460,
+        "height": 1021,
+        "alt": "Prince Rhombur Vernius",
+        "placeholder": false,
+        "sha256": "fede5c41935743f1ae9e5711638335d0b48e45b10599e67f44e5520757ee1a30",
+        "bytes": 96654,
+        "sourceUrl": "https://dunecardshub.com/cards/344/rise-of-ix-prince-rhombur-vernius"
+      }
+    },
+    {
+      "id": "leader-princess-yuna-moritani",
+      "englishName": "\"Princess\" Yuna Moritani",
+      "category": "leader",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/343/rise-of-ix-princess-yuna-moritani",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-leader-princess-yuna-moritani.webp",
+      "image": {
+        "src": "cards/leader/leader-princess-yuna-moritani.01b34dd8ab45.webp",
+        "width": 1460,
+        "height": 1018,
+        "alt": "\"Princess\" Yuna Moritani",
+        "placeholder": false,
+        "sha256": "01b34dd8ab4567ff16ff79c31f2f9cecacdb85ad8b67fb2c6d0caf48241608b2",
+        "bytes": 136954,
+        "sourceUrl": "https://dunecardshub.com/cards/343/rise-of-ix-princess-yuna-moritani"
+      }
+    },
+    {
+      "id": "leader-tessia-vernius",
+      "englishName": "Tessia Vernius",
+      "category": "leader",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/345/rise-of-ix-tessia-vernius",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-leader-tessia-vernius.webp",
+      "image": {
+        "src": "cards/leader/leader-tessia-vernius.33e8d03f1615.webp",
+        "width": 1460,
+        "height": 1021,
+        "alt": "Tessia Vernius",
+        "placeholder": false,
+        "sha256": "33e8d03f1615c4d72f05babd645a4e4f8ca3af3219e6a7c35e6f0b1560b1a89d",
+        "bytes": 163948,
+        "sourceUrl": "https://dunecardshub.com/cards/345/rise-of-ix-tessia-vernius"
+      }
+    },
+    {
+      "id": "leader-viscount-hundro-moritani",
+      "englishName": "Viscount Hundro Moritani",
+      "category": "leader",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/347/rise-of-ix-viscount-hundro-moritani",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-leader-viscount-hundro-moritani.webp",
+      "image": {
+        "src": "cards/leader/leader-viscount-hundro-moritani.cf1ab8c7c026.webp",
+        "width": 1460,
+        "height": 1021,
+        "alt": "Viscount Hundro Moritani",
+        "placeholder": false,
+        "sha256": "cf1ab8c7c02603f1989af1c4310e11cfb104e914a7f8c257f18a5d047a17b266",
+        "bytes": 146484,
+        "sourceUrl": "https://dunecardshub.com/cards/347/rise-of-ix-viscount-hundro-moritani"
+      }
+    },
+    {
+      "id": "reclaimed-forces",
+      "englishName": "Reclaimed Forces",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": true,
+      "sourceUrl": "https://dunecardshub.com/cards/413/immortality-reclaimed-forces",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-reclaimed-forces.webp",
+      "image": {
+        "src": "cards/tleilaxu/reclaimed-forces.9ee1989b4d75.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Reclaimed Forces",
+        "placeholder": false,
+        "sha256": "9ee1989b4d75c4907412e01887c7765ce3a0e3ab45f0d697eedfdfdc2247319f",
+        "bytes": 36410,
+        "sourceUrl": "https://dunecardshub.com/cards/413/immortality-reclaimed-forces"
+      }
+    },
+    {
+      "id": "space-dreadnought",
+      "englishName": "Dreadnought",
+      "category": "location",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/611/rise-of-ix-dreadnought",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-location-dreadnought.webp",
+      "image": {
+        "src": "cards/location/space-dreadnought.8e69e514497d.webp",
+        "width": 1272,
+        "height": 668,
+        "alt": "Dreadnought",
+        "placeholder": false,
+        "sha256": "8e69e514497d26a62a68d4a97ce8ad7ee2e0d1d405ae08fb60d120e797191d24",
+        "bytes": 1210944,
+        "sourceUrl": "https://dunecardshub.com/cards/611/rise-of-ix-dreadnought"
+      }
+    },
+    {
+      "id": "space-interstellar-shipping",
+      "englishName": "Interstellar Shipping",
+      "category": "location",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/609/rise-of-ix-interstellar-shipping",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-location-intersteller-shipping.webp",
+      "image": {
+        "src": "cards/location/space-interstellar-shipping.52989dd1eea2.webp",
+        "width": 602,
+        "height": 448,
+        "alt": "Interstellar Shipping",
+        "placeholder": false,
+        "sha256": "52989dd1eea26c6d16a3c6c530d15866e33600b1cc6dcac18fff094a4612d9a8",
+        "bytes": 37842,
+        "sourceUrl": "https://dunecardshub.com/cards/609/rise-of-ix-interstellar-shipping"
+      }
+    },
+    {
+      "id": "space-smuggling",
+      "englishName": "Smuggling",
+      "category": "location",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/608/rise-of-ix-smuggling",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-location-smuggling.webp",
+      "image": {
+        "src": "cards/location/space-smuggling.93b8eb7a3f5f.webp",
+        "width": 604,
+        "height": 378,
+        "alt": "Smuggling",
+        "placeholder": false,
+        "sha256": "93b8eb7a3f5fb4ee7e808e7bb48a70afd015fa2ac65a6d0b91a15cdf6e1c1637",
+        "bytes": 30356,
+        "sourceUrl": "https://dunecardshub.com/cards/608/rise-of-ix-smuggling"
+      }
+    },
+    {
+      "id": "space-tech-negotiation",
+      "englishName": "Tech Negotiation",
+      "category": "location",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/610/rise-of-ix-tech-negotiation",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-location-tech-negotiation.webp",
+      "image": {
+        "src": "cards/location/space-tech-negotiation.67ce987b56ca.webp",
+        "width": 1272,
+        "height": 776,
+        "alt": "Tech Negotiation",
+        "placeholder": false,
+        "sha256": "67ce987b56ca2dd6df5e70d916544b6a7c3a1e04bd59d26f2b25a96bbefd784a",
+        "bytes": 1457224,
+        "sourceUrl": "https://dunecardshub.com/cards/610/rise-of-ix-tech-negotiation"
+      }
+    },
+    {
+      "id": "tech-artillery",
+      "englishName": "Artillery",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/352/rise-of-ix-artillery",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-artillery.webp",
+      "image": {
+        "src": "cards/tech/tech-artillery.c0322fd50cf1.webp",
+        "width": 737,
+        "height": 477,
+        "alt": "Artillery",
+        "placeholder": false,
+        "sha256": "c0322fd50cf1a82f1d9d98f4d9bc7830eed2fed6325d90f511516c5be5071fde",
+        "bytes": 29342,
+        "sourceUrl": "https://dunecardshub.com/cards/352/rise-of-ix-artillery"
+      }
+    },
+    {
+      "id": "tech-chaumurky",
+      "englishName": "Chaumurky",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/356/rise-of-ix-chaumurky",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-chaumurky.webp",
+      "image": {
+        "src": "cards/tech/tech-chaumurky.2c2e6e454e06.webp",
+        "width": 737,
+        "height": 477,
+        "alt": "Chaumurky",
+        "placeholder": false,
+        "sha256": "2c2e6e454e060ed2a27f736c2a846fff06150d76b8c76aa8bc1b817a2200a02c",
+        "bytes": 27910,
+        "sourceUrl": "https://dunecardshub.com/cards/356/rise-of-ix-chaumurky"
+      }
+    },
+    {
+      "id": "tech-detonation-devices",
+      "englishName": "Detonation Devices",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/357/rise-of-ix-detonation-devices",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-detonation-devices.webp",
+      "image": {
+        "src": "cards/tech/tech-detonation-devices.7dbff90bda94.webp",
+        "width": 737,
+        "height": 477,
+        "alt": "Detonation Devices",
+        "placeholder": false,
+        "sha256": "7dbff90bda94540db3f38abb594c8a4f1a9edc118c8796c757bcb5e564857d8b",
+        "bytes": 40442,
+        "sourceUrl": "https://dunecardshub.com/cards/357/rise-of-ix-detonation-devices"
+      }
+    },
+    {
+      "id": "tech-disposal-facility",
+      "englishName": "Disposal Facility",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/361/rise-of-ix-disposal-facility",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-disposal-facility.webp",
+      "image": {
+        "src": "cards/tech/tech-disposal-facility.f2962f62ac3e.webp",
+        "width": 737,
+        "height": 475,
+        "alt": "Disposal Facility",
+        "placeholder": false,
+        "sha256": "f2962f62ac3e883a1699ef4055b0d7e1614fb564c784fd11289e669d5d727bfb",
+        "bytes": 31380,
+        "sourceUrl": "https://dunecardshub.com/cards/361/rise-of-ix-disposal-facility"
+      }
+    },
+    {
+      "id": "tech-flagship",
+      "englishName": "Flagship",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/350/rise-of-ix-flagship",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-flagship.webp",
+      "image": {
+        "src": "cards/tech/tech-flagship.99136988cab8.webp",
+        "width": 737,
+        "height": 474,
+        "alt": "Flagship",
+        "placeholder": false,
+        "sha256": "99136988cab8eada32255db9d4437ced6a037f4cbbc2e62b5ecd9317fd8e4cc5",
+        "bytes": 25436,
+        "sourceUrl": "https://dunecardshub.com/cards/350/rise-of-ix-flagship"
+      }
+    },
+    {
+      "id": "tech-holoprojectors",
+      "englishName": "Holoprojectors",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/359/rise-of-ix-holoprojectors",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-holoprojectors.webp",
+      "image": {
+        "src": "cards/tech/tech-holoprojectors.bfe9a759ad3c.webp",
+        "width": 737,
+        "height": 481,
+        "alt": "Holoprojectors",
+        "placeholder": false,
+        "sha256": "bfe9a759ad3c4f8c521479dcf711f5ab199fa593979beb133102fb7e950e730e",
+        "bytes": 26518,
+        "sourceUrl": "https://dunecardshub.com/cards/359/rise-of-ix-holoprojectors"
+      }
+    },
+    {
+      "id": "tech-holtzman-engine",
+      "englishName": "Holtzman Engine",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/362/rise-of-ix-holtzman-engine",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-holtzman-engine.webp",
+      "image": {
+        "src": "cards/tech/tech-holtzman-engine.3ddb54d54b6c.webp",
+        "width": 737,
+        "height": 477,
+        "alt": "Holtzman Engine",
+        "placeholder": false,
+        "sha256": "3ddb54d54b6c3dea88dcceb9e12f5140dea238ac8db6ecc7a5d982f1c9f3174b",
+        "bytes": 33966,
+        "sourceUrl": "https://dunecardshub.com/cards/362/rise-of-ix-holtzman-engine"
+      }
+    },
+    {
+      "id": "tech-invasion-ships",
+      "englishName": "Invasion Ships",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/355/rise-of-ix-invasion-ships",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-invasion-ships.webp",
+      "image": {
+        "src": "cards/tech/tech-invasion-ships.41d2ad86b5b8.webp",
+        "width": 737,
+        "height": 479,
+        "alt": "Invasion Ships",
+        "placeholder": false,
+        "sha256": "41d2ad86b5b86d269b55860300bd3ddeb9fdfc5dd9164dd2bfaa48331118ca1d",
+        "bytes": 31804,
+        "sourceUrl": "https://dunecardshub.com/cards/355/rise-of-ix-invasion-ships"
+      }
+    },
+    {
+      "id": "tech-memocorders",
+      "englishName": "Memocorders",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/360/rise-of-ix-memocorders",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-memocorders.webp",
+      "image": {
+        "src": "cards/tech/tech-memocorders.cb7ceb642619.webp",
+        "width": 737,
+        "height": 479,
+        "alt": "Memocorders",
+        "placeholder": false,
+        "sha256": "cb7ceb642619adef1cc4b719ec63a51a74fa067a13b1891382481bfb890251fb",
+        "bytes": 33574,
+        "sourceUrl": "https://dunecardshub.com/cards/360/rise-of-ix-memocorders"
+      }
+    },
+    {
+      "id": "tech-minimic-film",
+      "englishName": "Minimic Film",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/358/rise-of-ix-minimic-film",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-minimic-film.webp",
+      "image": {
+        "src": "cards/tech/tech-minimic-film.70688eed8171.webp",
+        "width": 737,
+        "height": 479,
+        "alt": "Minimic Film",
+        "placeholder": false,
+        "sha256": "70688eed817191ec2f2ee721ead4ea4be8a80179f0339a9ec7b3a3028bc85158",
+        "bytes": 24614,
+        "sourceUrl": "https://dunecardshub.com/cards/358/rise-of-ix-minimic-film"
+      }
+    },
+    {
+      "id": "tech-restricted-ordnance",
+      "englishName": "Restricted Ordnance",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/365/rise-of-ix-restricted-ordnance",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-restricted-ordnance.webp",
+      "image": {
+        "src": "cards/tech/tech-restricted-ordnance.34734feb1830.webp",
+        "width": 737,
+        "height": 477,
+        "alt": "Restricted Ordnance",
+        "placeholder": false,
+        "sha256": "34734feb1830cdd7a946467b94852700647ce1800e2f1afd77cd6a55d7662a01",
+        "bytes": 32564,
+        "sourceUrl": "https://dunecardshub.com/cards/365/rise-of-ix-restricted-ordnance"
+      }
+    },
+    {
+      "id": "tech-shuttle-fleet",
+      "englishName": "Shuttle Fleet",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/364/rise-of-ix-shuttle-fleet",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-shuttle-fleet.webp",
+      "image": {
+        "src": "cards/tech/tech-shuttle-fleet.afafdb499a95.webp",
+        "width": 737,
+        "height": 472,
+        "alt": "Shuttle Fleet",
+        "placeholder": false,
+        "sha256": "afafdb499a95cdfa87a8f2acccdcc34ffd3b4df0ffca7fa35e3097f8109ebf84",
+        "bytes": 26216,
+        "sourceUrl": "https://dunecardshub.com/cards/364/rise-of-ix-shuttle-fleet"
+      }
+    },
+    {
+      "id": "tech-sonic-snoopers",
+      "englishName": "Sonic Snoopers",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/351/rise-of-ix-sonic-snoopers",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-sonic-snoopers.webp",
+      "image": {
+        "src": "cards/tech/tech-sonic-snoopers.2d275c7c5772.webp",
+        "width": 737,
+        "height": 475,
+        "alt": "Sonic Snoopers",
+        "placeholder": false,
+        "sha256": "2d275c7c57729e72800d6075c34f15f3dca9cb6470a74f76f67046e29d6aa6da",
+        "bytes": 36234,
+        "sourceUrl": "https://dunecardshub.com/cards/351/rise-of-ix-sonic-snoopers"
+      }
+    },
+    {
+      "id": "tech-spaceport",
+      "englishName": "Spaceport",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/366/rise-of-ix-spaceport",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-spaceport.webp",
+      "image": {
+        "src": "cards/tech/tech-spaceport.135994a6040c.webp",
+        "width": 737,
+        "height": 479,
+        "alt": "Spaceport",
+        "placeholder": false,
+        "sha256": "135994a6040cd79f66c2f0e20bbeaa5fa15cbc887e970f16324c33dea09a745e",
+        "bytes": 29872,
+        "sourceUrl": "https://dunecardshub.com/cards/366/rise-of-ix-spaceport"
+      }
+    },
+    {
+      "id": "tech-spy-satellites",
+      "englishName": "Spy Satellites",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/354/rise-of-ix-spy-satellites",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-spy-satellites.webp",
+      "image": {
+        "src": "cards/tech/tech-spy-satellites.b9389e1e7351.webp",
+        "width": 737,
+        "height": 481,
+        "alt": "Spy Satellites",
+        "placeholder": false,
+        "sha256": "b9389e1e7351f68c8d413809157b8a6bb82e9a4398184095f239359dd531553d",
+        "bytes": 34664,
+        "sourceUrl": "https://dunecardshub.com/cards/354/rise-of-ix-spy-satellites"
+      }
+    },
+    {
+      "id": "tech-training-drones",
+      "englishName": "Training Drones",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/363/rise-of-ix-training-drones",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-training-drones.webp",
+      "image": {
+        "src": "cards/tech/tech-training-drones.2a0af3d28d3f.webp",
+        "width": 737,
+        "height": 475,
+        "alt": "Training Drones",
+        "placeholder": false,
+        "sha256": "2a0af3d28d3fc15aac8b90fad2d5290a57c59e00a9911c9ddc13e49851131abf",
+        "bytes": 25612,
+        "sourceUrl": "https://dunecardshub.com/cards/363/rise-of-ix-training-drones"
+      }
+    },
+    {
+      "id": "tech-troop-transports",
+      "englishName": "Troop Transports",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/353/rise-of-ix-troop-transports",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-troop-transports.webp",
+      "image": {
+        "src": "cards/tech/tech-troop-transports.5a373c5bfb54.webp",
+        "width": 737,
+        "height": 475,
+        "alt": "Troop Transports",
+        "placeholder": false,
+        "sha256": "5a373c5bfb549fce13fce23a0acde6c0f10ca82f77d773a5699e8ed4e4daaa39",
+        "bytes": 36298,
+        "sourceUrl": "https://dunecardshub.com/cards/353/rise-of-ix-troop-transports"
+      }
+    },
+    {
+      "id": "tech-windtraps",
+      "englishName": "Windtraps",
+      "category": "tech",
+      "expansion": "rise-of-ix",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/349/rise-of-ix-windtraps",
+      "imageUrl": "https://dunecardshub.com/images/rise-of-ix-tech-windtraps.webp",
+      "image": {
+        "src": "cards/tech/tech-windtraps.7b7a9a41d2f2.webp",
+        "width": 737,
+        "height": 479,
+        "alt": "Windtraps",
+        "placeholder": false,
+        "sha256": "7b7a9a41d2f2dffcad273d503c0339f10aa1d202f33920576d2c7f22ba05bee2",
+        "bytes": 26304,
+        "sourceUrl": "https://dunecardshub.com/cards/349/rise-of-ix-windtraps"
+      }
+    },
+    {
+      "id": "tleilaxu-beguiling-pheromones",
+      "englishName": "Beguiling Pheromones",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/403/immortality-beguiling-pheromones",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-beguiling-pheromones.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-beguiling-pheromones.5447a304845b.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Beguiling Pheromones",
+        "placeholder": false,
+        "sha256": "5447a304845b8edcb233581013b841ad61dee361436deaff4336adc27581b904",
+        "bytes": 38746,
+        "sourceUrl": "https://dunecardshub.com/cards/403/immortality-beguiling-pheromones"
+      }
+    },
+    {
+      "id": "tleilaxu-chairdog",
+      "englishName": "Chairdog",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/404/immortality-chairdog",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-chairdog.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-chairdog.31909c3b998e.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Chairdog",
+        "placeholder": false,
+        "sha256": "31909c3b998ed99ff1d7a5369dc78d33baf392fb7cf122f23a7fd13f662d3bae",
+        "bytes": 43628,
+        "sourceUrl": "https://dunecardshub.com/cards/404/immortality-chairdog"
+      }
+    },
+    {
+      "id": "tleilaxu-contaminator",
+      "englishName": "Contaminator",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/405/immortality-contaminator",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-contaminator.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-contaminator.5ae0d16ffc89.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Contaminator",
+        "placeholder": false,
+        "sha256": "5ae0d16ffc8935e5260ca7290a506c9b752493e892afcc45e489f5090a561970",
+        "bytes": 35332,
+        "sourceUrl": "https://dunecardshub.com/cards/405/immortality-contaminator"
+      }
+    },
+    {
+      "id": "tleilaxu-corrino-genes",
+      "englishName": "Corrino Genes",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/406/immortality-corrino-genes",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-corrino-genes.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-corrino-genes.d22bd5659ceb.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Corrino Genes",
+        "placeholder": false,
+        "sha256": "d22bd5659cebe293cf674f10e4fc77cb37979f5df3430e01227fdca871e6c3b3",
+        "bytes": 32330,
+        "sourceUrl": "https://dunecardshub.com/cards/406/immortality-corrino-genes"
+      }
+    },
+    {
+      "id": "tleilaxu-face-dancer",
+      "englishName": "Face Dancer",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/407/immortality-face-dancer",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-face-dancer.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-face-dancer.08a28c7b84d3.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Face Dancer",
+        "placeholder": false,
+        "sha256": "08a28c7b84d3104c1af746ef6a643d0547b6f5bdffb29a59b8e33dc251130268",
+        "bytes": 36062,
+        "sourceUrl": "https://dunecardshub.com/cards/407/immortality-face-dancer"
+      }
+    },
+    {
+      "id": "tleilaxu-face-dancer-initiate",
+      "englishName": "Face Dancer Initiate",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/408/immortality-face-dancer-initiate",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-face-dancer-initiate.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-face-dancer-initiate.066fc285c81a.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Face Dancer Initiate",
+        "placeholder": false,
+        "sha256": "066fc285c81a8fb4aca010abc1ebcb50754384bba8d08b407ee729d023500722",
+        "bytes": 33758,
+        "sourceUrl": "https://dunecardshub.com/cards/408/immortality-face-dancer-initiate"
+      }
+    },
+    {
+      "id": "tleilaxu-from-the-tanks",
+      "englishName": "From The Tanks",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/409/immortality-from-the-tanks",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-from-the-tanks.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-from-the-tanks.ea13be6939b2.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "From The Tanks",
+        "placeholder": false,
+        "sha256": "ea13be6939b2cb28bc1370a12b5e46b9486e6db05e5400d4333e97d2d9bcae83",
+        "bytes": 34088,
+        "sourceUrl": "https://dunecardshub.com/cards/409/immortality-from-the-tanks"
+      }
+    },
+    {
+      "id": "tleilaxu-ghola",
+      "englishName": "Ghola",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/410/immortality-ghola",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-ghola.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-ghola.9fd59b77bed5.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Ghola",
+        "placeholder": false,
+        "sha256": "9fd59b77bed5872fa213d5c320e412b37d2a0527feeb1b02762287865e1e0d39",
+        "bytes": 26478,
+        "sourceUrl": "https://dunecardshub.com/cards/410/immortality-ghola"
+      }
+    },
+    {
+      "id": "tleilaxu-guild-impersonator",
+      "englishName": "Guild Impersonator",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/411/immortality-guild-impersonator",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-guild-impersonator.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-guild-impersonator.fe113a5ba92c.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Guild Impersonator",
+        "placeholder": false,
+        "sha256": "fe113a5ba92c1c917628805ffc9881977addb575db466d1e3f67a38faaf949e2",
+        "bytes": 38822,
+        "sourceUrl": "https://dunecardshub.com/cards/411/immortality-guild-impersonator"
+      }
+    },
+    {
+      "id": "tleilaxu-industrial-espionage",
+      "englishName": "Industrial Espionage",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/412/immortality-industrial-espionage",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-industrial-espionage.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-industrial-espionage.ecff5d085774.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Industrial Espionage",
+        "placeholder": false,
+        "sha256": "ecff5d085774b60d1c7ee96cd8a6f3ce621da1500087b292e9c2cd3b26397170",
+        "bytes": 31430,
+        "sourceUrl": "https://dunecardshub.com/cards/412/immortality-industrial-espionage"
+      }
+    },
+    {
+      "id": "tleilaxu-scientific-breakthrough",
+      "englishName": "Scientific Breakthrough",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/414/immortality-scientific-breakthrough",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-scientific-breakthrough.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-scientific-breakthrough.bc6059c83b54.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Scientific Breakthrough",
+        "placeholder": false,
+        "sha256": "bc6059c83b54d8b4975df2156fd49bef7a964048c163b1aabceaa489fb9e9d3a",
+        "bytes": 34710,
+        "sourceUrl": "https://dunecardshub.com/cards/414/immortality-scientific-breakthrough"
+      }
+    },
+    {
+      "id": "tleilaxu-slig-farmer",
+      "englishName": "Slig Farmer",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/415/immortality-slig-farmer",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-slig-farmer.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-slig-farmer.0dc2b6e4bd85.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Slig Farmer",
+        "placeholder": false,
+        "sha256": "0dc2b6e4bd85bbb7e046b7182c3be93ecf3a3a78bd463e932ab07499f555b746",
+        "bytes": 38852,
+        "sourceUrl": "https://dunecardshub.com/cards/415/immortality-slig-farmer"
+      }
+    },
+    {
+      "id": "tleilaxu-stitched-horror",
+      "englishName": "Stitched Horror",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/416/immortality-stitched-horror",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-stitched-horror.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-stitched-horror.72a5f491146c.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Stitched Horror",
+        "placeholder": false,
+        "sha256": "72a5f491146c0a2995598e719509d923d0b2ce9d63661649d12bb9e7c47ea494",
+        "bytes": 34418,
+        "sourceUrl": "https://dunecardshub.com/cards/416/immortality-stitched-horror"
+      }
+    },
+    {
+      "id": "tleilaxu-subject-x-137",
+      "englishName": "Subject X-137",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/417/immortality-subject-x-137",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-subject-x-137.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-subject-x-137.04da389464ca.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Subject X-137",
+        "placeholder": false,
+        "sha256": "04da389464cad12beaa1db915c574d3c25efc4bf644949f5c19d0083c6789532",
+        "bytes": 40056,
+        "sourceUrl": "https://dunecardshub.com/cards/417/immortality-subject-x-137"
+      }
+    },
+    {
+      "id": "tleilaxu-tleilaxu-infiltrator",
+      "englishName": "Tleilaxu Infiltrator",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/418/immortality-tleilaxu-infiltrator",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-tleilaxu-infiltrator.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-tleilaxu-infiltrator.9da1c294eb14.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Tleilaxu Infiltrator",
+        "placeholder": false,
+        "sha256": "9da1c294eb143e17b59f1ea7e3dcdde5d56d7f6a8306e824ae899be440001c32",
+        "bytes": 31554,
+        "sourceUrl": "https://dunecardshub.com/cards/418/immortality-tleilaxu-infiltrator"
+      }
+    },
+    {
+      "id": "tleilaxu-twisted-mentat",
+      "englishName": "Twisted Mentat",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/419/immortality-twisted-mentat",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-twisted-mentat.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-twisted-mentat.9bab7cf68332.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Twisted Mentat",
+        "placeholder": false,
+        "sha256": "9bab7cf68332970666635d623fbc8d794063ba73b806af24e5dac4946b06ee90",
+        "bytes": 40114,
+        "sourceUrl": "https://dunecardshub.com/cards/419/immortality-twisted-mentat"
+      }
+    },
+    {
+      "id": "tleilaxu-unnatural-reflexes",
+      "englishName": "Unnatural Reflexes",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/420/immortality-unnatural-reflexes",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-unnatural-reflexes.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-unnatural-reflexes.fb2f5d2c9efd.webp",
+        "width": 627,
+        "height": 880,
+        "alt": "Unnatural Reflexes",
+        "placeholder": false,
+        "sha256": "fb2f5d2c9efde516d660a8684b134bd6a9327f45933b0e80f368472add291117",
+        "bytes": 42480,
+        "sourceUrl": "https://dunecardshub.com/cards/420/immortality-unnatural-reflexes"
+      }
+    },
+    {
+      "id": "tleilaxu-usurp",
+      "englishName": "Usurp",
+      "category": "tleilaxu",
+      "expansion": "immortality",
+      "copies": 1,
+      "fixed": false,
+      "sourceUrl": "https://dunecardshub.com/cards/421/immortality-usurp",
+      "imageUrl": "https://dunecardshub.com/images/immortality-tleilaxu-usurp.webp",
+      "image": {
+        "src": "cards/tleilaxu/tleilaxu-usurp.07b4d6480dd9.webp",
+        "width": 628,
+        "height": 880,
+        "alt": "Usurp",
+        "placeholder": false,
+        "sha256": "07b4d6480dd9bad49b8be1c55345395ad88957979661c4f290ce96f9966578bf",
+        "bytes": 35744,
+        "sourceUrl": "https://dunecardshub.com/cards/421/immortality-usurp"
+      }
+    }
+  ]
+}

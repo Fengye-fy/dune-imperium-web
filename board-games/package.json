@@ -1,0 +1,12 @@
+{
+  "name": "fengye-board-games",
+  "version": "0.1.0",
+  "private": true,
+  "description": "桌游栏目、房间服务与服务器裁决的游戏插件",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run-all.js"
+  },
+  "engines": { "node": ">=18" }
+}
